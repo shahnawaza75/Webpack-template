@@ -1,1 +1,3 @@
-# Webpack-template
+# webpack
+
+Webpack exercise
